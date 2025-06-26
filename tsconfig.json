@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["es7"],
+    "lib": ["ES2017"],
     "declaration": true,
     "esModuleInterop": false,
     "module": "commonjs",
@@ -11,7 +11,7 @@
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "target": "ES2017",
+    "target": "ES2023",
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
